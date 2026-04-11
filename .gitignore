@@ -1,0 +1,18 @@
+# Ambiente Virtual e Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dados Binários (PDFs)
+dados_selenium/pdfs/
+
+# Screenshots e logs de erro (Selenium)
+*.png
+*.log
+
+# Pasta de Arquivos/Backup
+/Arq/
+
+# Configurações de IDE
+.vscode/
+.idea/
