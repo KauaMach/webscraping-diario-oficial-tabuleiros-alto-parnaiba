@@ -1,6 +1,6 @@
 [project]
 name = "Atividade-04-Coleta-de-dados"
-version = "0.2.0"
+version = "0.1.0"
 description = "Webscraping de Diários Oficiais dos Municípios do Piauí — Tabuleiros do Alto Parnaíba"
 readme = "README.md"
 requires-python = ">=3.12"
