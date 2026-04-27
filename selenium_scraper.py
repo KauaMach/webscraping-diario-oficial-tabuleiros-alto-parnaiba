@@ -13,12 +13,27 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 
 # Configurações globais
+
 URL_SITE = "https://www.diarioficialdosmunicipios.org/consulta/ConPublicacaoGeral/ConPublicacaoGeral.php"
+
+# Tabuleiros do Alto Parnaíba
+"""
 MUNICIPIOS = [
     "Antônio Almeida", "Baixa Grande do Ribeiro", "Bertolínia", "Canavieira", 
     "Guadalupe", "Jerumenha", "Landri Sales", "Marcos Parente", 
     "Porto Alegre do Piauí", "Ribeiro Gonçalves", "Sebastião Leal", "Uruçuí"
 ]
+"""
+# Vale dos Rios Piauí e Itaueiras
+MUNICIPIOS = [
+    "Arraial", "Brejo do Pi", "Canto do Buriti", "Floriano", 
+    "Flores do Pi", "Francisco Ayres", "Itaueira", "Nazare do Pi", 
+    "Nova Santa Rita", "Pajeu do Pi", "Pavussu", "Paes Landim", 
+    "Pedro Laurentino", "Ribeira do Pi", "Rio Grande do Pi", 
+    "Sao Jose do Peixe", "Sao Miguel do Fidalgo", "Socorro do Pi", 
+    "Tamboril do Pi"
+]
+
 ENTIDADES = ["Prefeitura", "Camara"] 
 ANO = "2025"
 

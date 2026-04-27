@@ -5,7 +5,7 @@ __pycache__/
 
 # Dados Binários (PDFs)
 dados_selenium/pdfs/
-
+*.zip
 # Screenshots e logs de erro (Selenium)
 *.png
 *.log
