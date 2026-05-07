@@ -1,12 +1,19 @@
 # 📊 Relatório Detalhado de Coleta — 2025
 
-> **Território:** Tabuleiros do Alto Parnaíba
-> **Total de Registros:** 13293
+> **Total de Registros:** 23093
 > **Período Coberto:** 02/01/2025 até 31/12/2025
 
-## 📍 Matriz Município vs Entidade
-Detalhamento de quantos registros foram encontrados em cada órgão.
+## 🌍 Resumo por Região
+| Região | Registros | % |
+| :--- | :---: | :---: |
+| Outros | 624 | 2.7% |
+| Tabuleiros do Alto Parnaíba | 12669 | 54.9% |
+| Vale dos Rios Piauí e Itaueiras | 9800 | 42.4% |
 
+## 📍 Matriz Município vs Entidade
+Detalhamento por região e órgão.
+
+### Tabuleiros do Alto Parnaíba
 | Município | Prefeitura | Câmara | **Total** |
 | :--- | :---: | :---: | :---: |
 | Antônio Almeida | 941 | 77 | **1018** |
@@ -16,49 +23,64 @@ Detalhamento de quantos registros foram encontrados em cada órgão.
 | Guadalupe | 1289 | 90 | **1379** |
 | Jerumenha | 739 | 59 | **798** |
 | Marcos Parente | 0 | 47 | **47** |
-| Porto Alegre do Pi | 581 | 43 | **624** |
 | Ribeiro Gonçalves | 1545 | 130 | **1675** |
 | Sebastião Leal | 1254 | 47 | **1301** |
 | Uruçuí | 2360 | 293 | **2653** |
+
+### Vale dos Rios Piauí e Itaueiras
+| Município | Prefeitura | Câmara | **Total** |
+| :--- | :---: | :---: | :---: |
+| Arraial | 919 | 42 | **961** |
+| Canto do Buriti | 1346 | 58 | **1404** |
+| Flores do Pi | 558 | 0 | **558** |
+| Francisco Ayres | 705 | 92 | **797** |
+| Nova Santa Rita | 597 | 63 | **660** |
+| Pajeu do Pi | 1217 | 0 | **1217** |
+| Pavussu | 1169 | 56 | **1225** |
+| Pedro Laurentino | 0 | 43 | **43** |
+| Ribeira do Pi | 553 | 0 | **553** |
+| Sao Miguel do Fidalgo | 700 | 0 | **700** |
+| Socorro do Pi | 836 | 0 | **836** |
+| Tamboril do Pi | 802 | 44 | **846** |
 
 ## 📅 Evolução Mensal
 Quantidade de publicações detectadas por mês.
 
 | Mês | Publicações | % |
 | :--- | :---: | :---: |
-| 2025-01 (January) | 2189 | 16.5% |
-| 2025-02 (February) | 1742 | 13.1% |
-| 2025-03 (March) | 1010 | 7.6% |
-| 2025-04 (April) | 1561 | 11.7% |
-| 2025-05 (May) | 1011 | 7.6% |
-| 2025-06 (June) | 877 | 6.6% |
-| 2025-07 (July) | 876 | 6.6% |
-| 2025-08 (August) | 702 | 5.3% |
-| 2025-09 (September) | 861 | 6.5% |
-| 2025-10 (October) | 654 | 4.9% |
-| 2025-11 (November) | 483 | 3.6% |
-| 2025-12 (December) | 1327 | 10.0% |
+| 2025-01 (January) | 3865 | 16.7% |
+| 2025-02 (February) | 3000 | 13.0% |
+| 2025-03 (March) | 1917 | 8.3% |
+| 2025-04 (April) | 2510 | 10.9% |
+| 2025-05 (May) | 1868 | 8.1% |
+| 2025-06 (June) | 1505 | 6.5% |
+| 2025-07 (July) | 1542 | 6.7% |
+| 2025-08 (August) | 1303 | 5.6% |
+| 2025-09 (September) | 1416 | 6.1% |
+| 2025-10 (October) | 1217 | 5.3% |
+| 2025-11 (November) | 967 | 4.2% |
+| 2025-12 (December) | 1983 | 8.6% |
 
 ## 📂 Classificação por Categoria (Top 15)
 
 | Categoria | Total | % |
 | :--- | :---: | :---: |
-| Licitacao | 5180 | 39.0% |
-| Portaria | 3276 | 24.6% |
-| LRF | 1206 | 9.1% |
-| Extrato | 943 | 7.1% |
-| Contrato | 663 | 5.0% |
-| Decreto | 626 | 4.7% |
-| Edital | 267 | 2.0% |
-| Lei | 222 | 1.7% |
-| Termo | 189 | 1.4% |
-| Resolucao | 158 | 1.2% |
-| Ata | 157 | 1.2% |
-| Oficio | 73 | 0.5% |
-| Rescisao | 30 | 0.2% |
-| Distrato | 30 | 0.2% |
-| Projeto | 24 | 0.2% |
+| Licitacao | 8797 | 38.1% |
+| Portaria | 5711 | 24.7% |
+| LRF | 2257 | 9.8% |
+| Extrato | 1713 | 7.4% |
+| Decreto | 1274 | 5.5% |
+| Contrato | 937 | 4.1% |
+| Lei | 443 | 1.9% |
+| Edital | 439 | 1.9% |
+| Resolucao | 302 | 1.3% |
+| Ata | 262 | 1.1% |
+| Termo | 260 | 1.1% |
+| Oficio | 152 | 0.7% |
+| Distrato | 50 | 0.2% |
+| Projeto | 42 | 0.2% |
+| Rescisao | 35 | 0.2% |
 
 
 ---
-*Relatório gerado automaticamente em 11/04/2026 14:53:08*
+*Relatório gerado automaticamente em 07/05/2026 15:03:51*
