@@ -27,7 +27,10 @@ A solução foi desenvolvida para lidar com a estrutura dinâmica do site da APP
 
 ## 📂 Armazenamento de Dados
 
-Os dados são salvos na pasta `dados_selenium/`:
+Os arquivos coletados (PDFs e CSV completo) estão disponíveis para visualização e download no Google Drive:
+- **[Acesse os Dados no Google Drive](https://drive.google.com/drive/folders/1H3uAe-Tr73-JJ1Ihn9grgDhPmX_bEarv)**
+
+Localmente, os dados são organizados na pasta `dados_selenium/`:
 - **CSV**: Contém metadados (edição, data, município, entidade, link e identificador único).
 - **PDFs**: Organizados automaticamente em subpastas por `município/entidade`.
 - **Relatório**: O arquivo `relatorio_geral.md` contém estatísticas detalhadas da coleta, com resumo por região e matriz de órgãos.
